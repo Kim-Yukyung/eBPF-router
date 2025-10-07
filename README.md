@@ -15,6 +15,10 @@
   </em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89dedf6c-fd87-40cc-af8e-2d4b5c9e28d0" alt="eBPF_example" width="800" />
+</p>
+
 <br>
 
 ```mermaid
